@@ -1,4 +1,4 @@
 # Expense Manager
 
 An expense manager for recording daily expenses throughout the year  
--  built using React
+-  Allows user to input a title, amount and date
